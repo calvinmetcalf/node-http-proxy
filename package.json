@@ -1,5 +1,5 @@
 {
-  "name": "http-proxy",
+  "name": "pouchdb-http-proxy",
   "version": "0.10.4",
   "description": "A full-featured http reverse proxy for node.js",
   "author": "Nodejitsu Inc. <info@nodejitsu.com>",
